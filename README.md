@@ -8,6 +8,7 @@ MoovitMY-KL_KTM
 - In the event that there are no changes to a detected change, e.g. formatting issues, 
   - One commit should be done to updated the files on par with the formatting. It is recommended to use the filediff feature in GitKraken to do this.
   - Then, the 2nd commit would be the actual changes in the schedules.
+- All changes should be done at the development branch before going into the master branch.
 
 ## Version numbering
 - The version numbering should follow this format : v\<year>\<month>\<day>
