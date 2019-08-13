@@ -1,0 +1,131 @@
+To Batu Caves:
+Pulau Sebang
+Rembau
+Sungai Gadut
+Senawang
+Seremban
+Tiroi
+Labu
+Nilai
+Batang Benar
+Bangi
+UKM
+Kajang
+Serdang
+Bandar Tasek Selatan
+Salak Selatan
+Seputeh
+MidValley
+KL Sentral
+Kuala Lumpur
+Bank Negara
+Putra
+Sentul
+Batu Kentonmen
+Kampung Batu
+Taman Wahyu
+Batu Caves
+
+================================
+To Pulau Sebang:
+Batu Caves
+Taman Wahyu
+Kampung Batu
+Batu Kentonmen
+Sentul
+Putra
+Bank Negara
+Kuala Lumpur
+KL Sentral
+MidValley
+Seputeh
+Salak Selatan
+Bandar Tasek Selatan
+Serdang
+Kajang
+UKM
+Bangi
+Batang Benar
+Nilai
+Labu
+Tiroi
+Seremban
+Senawang
+Sungai Gadut
+Rembau
+Pulau Sebang
+
+================================
+To Tanjung Malim:
+Pelabuhan Klang	
+Jalan Kastam	
+Kg Raja Uda	
+Teluk Gadong	
+Teluk Pulai	
+Klang	
+Bukit Badak	
+Padang Jawa	
+Shah Alam	
+Batu Tiga	
+Subang Jaya	
+Setia Jaya	
+Seri Setia	
+Kg Dato Harun	
+Jalan Templer	
+Petaling	
+Pantai Dalam	
+Angkasapuri	
+Abdullah Hukum	
+KL Sentral	
+Kuala Lumpur	
+Bank Negara	
+Putra	
+Sentul	
+Segambut	
+Kepong	
+Kepong Sentral	
+Sungai Buloh	
+Kuang	
+Rawang	
+Serendah	
+Batang Kali	
+Rasa	
+Kuala Kubu Bharu	
+Tanjung Malim	
+
+================================
+To Pelabuhan Klang:
+Tanjung Malim	
+Kuala Kubu Bharu	
+Rasa	
+Batang Kali	
+Serendah	
+Rawang	
+Kuang	
+Sungai Buloh	
+Kepong Sentral	
+Kepong	
+Segambut	
+Putra	
+Bank Negara	
+Kuala Lumpur	
+KL Sentral	
+Abdullah Hukum	
+Angkasapuri	
+Pantai Dalam	
+Petaling	
+Jalan Templer	
+Kg Dato Harun	
+Seri Setia	
+Setia Jaya	
+Subang Jaya	
+Batu Tiga	
+Shah Alam	
+Padang Jawa	
+Bukit Badak	
+Klang	
+Teluk Pulai	
+Teluk Gadong	
+Kg Raja Uda	
+Jalan Kastam	
+Pelabuhan Klang	
