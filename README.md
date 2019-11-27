@@ -1,5 +1,7 @@
 MoovitMY-KL_KTM
 
+[![HitCount](http://hits.dwyl.io/kwongtn/MoovitMY-KL_KTM.svg)](http://hits.dwyl.io/kwongtn/MoovitMY-KL_KTM)
+
 # Commit log
 - 4th Commit    -- Schedule as of 11 October 2019
 - 3rd Commit    -- Minor changes on 3 Aug 2019
