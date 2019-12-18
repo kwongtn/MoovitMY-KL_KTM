@@ -70,6 +70,28 @@
 </style>
 <body>
 
+<!-- popup modal on page load-->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+  <div class="modal-content" style="height: auto; overflow-y:auto">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Special Announcement</h4>
+      </div>
+																		
+      <div class="modal-body text-center">
+		<img src="assets/img/berita_baik_abdullah_hukum.jpg" alt="image" class="img-responsive" style="margin: 0 auto">
+		<div class="detail_box">
+            <p>Shopping At KL ECO CITY , Mid Valley & The Gardens Via KTM Abdullah Hukum Station</p>
+			<p><a href="http://intranet4.ktmb.com.my/ktmb/uploads/files/pdf/Flyer Abdullah Hukum Linkbridge 1.pdf" class="btn btn_select-v0"  target="blank" >Details</a></p>
+		</div>
+     </div>        
+    </div>
+  </div>
+</div>	  
+<!-- end popup modal on page load-->
+
 <!--start navigation bar-->
 <div class="wsmenucontainer clearfix">
       <div class="overlapblackbg"></div>
@@ -1123,7 +1145,7 @@
                         <a href="News.html" class="quick-link">News & Media</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
                         <a href="Career.html" class="quick-link">Career</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
 						<a href="Myra.html" target="blank" class="quick-link">Akademi KTM (MyRA)</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
-                        <a href="Tender.html" class="quick-link">Tender, Quotation & Asset Disposal</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
+                        <a href="Tender.html" class="quick-link">Tender & Supplier Registration </a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
 						<!--<a href="Registration.html" class="quick-link">Contractors/Suppliers Registration Form </a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>-->
 						<a href="http://intranet4.ktmb.com.my/ktmb/uploads/files/pdf/KTMB_SUPPLIER_PORTAL_USER_MANUAL.pdf" class="quick-link">User Manual for Supplier registration & Supplier Portal(e-Procurement) </a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>	
 						<a href="http://intranet4.ktmb.com.my/ktmb/uploads/files/manual/Manual tender Slide SUPPLIER.pdf" target="blank" class="quick-link">KTMB Tender User Manual</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
@@ -1155,6 +1177,7 @@
 						<a href="http://form.ktmb.com.my/i-Medic/index.html" target="blank" class="quick-link">Panel Clinic</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>						
 						<a href="https://ekyf.fa.ap1.oraclecloud.com/fscmUI/faces/PrcPosRegisterSupplier?prcBuId=300000002066134" target="blank" class="quick-link">Supplier Registration</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
 						<a href="https://ekyf.fa.ap1.oraclecloud.com/" target="blank" class="quick-link">e-Procurement</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>
+						<a href="http://form.ktmb.com.my/eproc/eProc/index.php?module=weba" target="blank" class="quick-link">Purchase RFQ</a>&nbsp;&nbsp;<i class="glyphicon glyphicon-chevron-right quick-link-text"></i><br><br>	
                     </div>
 
                 </div>
@@ -1200,6 +1223,12 @@
 <script>window.jQuery || document.write('<script src="assets/default-temp/js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
 <script src="assets/default-temp/js/plugins.js"></script>
 <script src="assets/default-temp/js/main.js"></script>
+
+<script type="text/javascript">
+ $(window).load(function(){        
+   $('#myModal').modal('show');
+    }); 
+</script>
 
 </body>
 </html>
